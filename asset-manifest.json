@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Resume/static/css/main.db1bfa75.css",
+    "main.js": "/Resume/static/js/main.f00cc7bb.js",
+    "static/media/first project.png": "/Resume/static/media/first project.e9147e8d57c9ca84449a.png",
+    "static/media/background.jpg": "/Resume/static/media/background.cd1af80d9bb0ba1718d0.jpg",
+    "static/media/atom.png": "/Resume/static/media/atom.17e5cb984343d1346ebd.png",
+    "static/media/css.png": "/Resume/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/Logo.png": "/Resume/static/media/Logo.902baa572e5bc0cc1bb4.png",
+    "static/media/github.png": "/Resume/static/media/github.05f6c17b8cd04c28456f.png",
+    "static/media/html-5.png": "/Resume/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/js.png": "/Resume/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Resume/index.html",
+    "main.db1bfa75.css.map": "/Resume/static/css/main.db1bfa75.css.map",
+    "main.f00cc7bb.js.map": "/Resume/static/js/main.f00cc7bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db1bfa75.css",
+    "static/js/main.f00cc7bb.js"
+  ]
+}
