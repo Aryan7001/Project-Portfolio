@@ -1,0 +1,36 @@
+.img_list img{
+    width: 350px;
+}
+
+.main_list{
+    border: 1px solid blue;
+    margin: 2vh 2vw;
+    padding: 2vh 2vw;
+    background-color: aqua;
+    border-radius: 12px;
+    box-shadow: 10px 10px 10px brown;
+}
+
+.main-about button{
+    padding: 1vh 2vw;
+    margin: 0 2vw;
+    color: black;
+    background-color: aquamarine;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+}
+
+.main-about button:hover{
+    background-color: red;
+    color: white;
+}
+
+
+@media(max-width:600px){
+
+.main_list{
+    border: none;
+}
+
+}

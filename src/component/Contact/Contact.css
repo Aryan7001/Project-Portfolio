@@ -1,0 +1,47 @@
+.main-contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-box{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+
+.contact-box input{
+padding: 2vh 1vw;
+border-radius: 12px;
+border: none;
+}
+
+.message-box{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.message-box #message {
+    padding: 12vh 1vw;
+    border-radius: 12px;
+    border: none;
+}
+
+.main-contact button{
+    padding: 1vw 2vw;
+    background-color:whitesmoke;
+    color: brown;
+    border-radius: 12px;
+    border: none;
+    margin: 4vh 16vw;
+    font-size: 14px;
+    font-weight: 400;
+    box-shadow: 10px 10px 10px black;
+    cursor: pointer;
+}
+
+.main-contact button:hover{
+    background-color: red;
+}
