@@ -11,7 +11,7 @@ const About = (props) => {
       <h1>My <span>Projects</span></h1>
    <div className='main-list'>
 {projects.map((item, index)=>(
-<AboutList key={index} id={item.id} name={item.name} img={item.img} desc={item.desc} />
+<AboutList key={index} id={item.id} name={item.name} img={item.img} desc={item.desc} url={item.url} />
 ))}
 
    </div>

@@ -7,6 +7,9 @@ import js from './js.png'
 import github from './github.png'
 import atom from './atom.png'
 import firstproject from './first project.png'
+import secondproject from './second project.png'
+import thirdproject from './third project.png'
+import fourthproject from './fourth project.png'
 
 
 
@@ -28,32 +31,34 @@ export const projects=[
 {
 id:1,
 img:firstproject,
-name:"Ecommerce",
+name:"Clothes Website",
 desc:"this project is all about the online store that helps to deliver the clothees to the customers without any delay in their doorsteps",
 },
 
 {
     id:2,
-    img:firstproject,
-    name:"Ecommerce",
-    desc:"this project is all about the online store that helps to deliver the clothees to the customers without any delay in their doorsteps",
+    img:secondproject,
+    name:"Resturant",
+    desc:"this is a resturant website where u can reserve your table, choose different cuisines from different cities and also u can search for the dish u desire ",
+    url:'https://aryan7001.github.io/Resturant/'
     },
     
 
     {
         id:3,
-        img:firstproject,
-        name:"Ecommerce",
-        desc:"this project is all about the online store that helps to deliver the clothees to the customers without any delay in their doorsteps",
+        img:thirdproject,
+        name:"Beauty Product Website",
+        desc:"This project is all about the beauty products where u can buy different items related to makeup and other stuff",
+        url:'https://aryan7001.github.io/Website/'
         },
         
 
         {
             id:4,
-            img:firstproject,
-            name:"Ecommerce",
-            desc:"this project is all about the online store that helps to deliver the clothees to the customers without any delay in their doorsteps",
-            },
+            img:fourthproject,
+            name:"Netflix",
+            desc:"Here, i have tried to clone the netflix but it not fully completed i am working on it and hope to complete it as soon as possible",
+        },
             
 
 ]

@@ -1,8 +1,10 @@
 import React from 'react'
 import './AboutList.css'
+import { Link } from 'react-router-dom'
 
 
-const AboutList = ({id, img,name,desc}) => {
+const AboutList = ({id, img,name,desc,url}) => {
+
   return (
     <div className='main-about'>
         <div className='main_list'>
@@ -15,7 +17,7 @@ const AboutList = ({id, img,name,desc}) => {
 </div>
 <div className='button'> 
 <button>Github</button>
-<button>Website</button>
+<Link to = {url}><button>Website</button></Link>
 </div>
 
 
