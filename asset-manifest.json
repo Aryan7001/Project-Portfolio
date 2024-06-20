@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/Project-Portfolio/static/css/main.db1bfa75.css",
-    "main.js": "/Project-Portfolio/static/js/main.96494284.js",
+    "main.js": "/Project-Portfolio/static/js/main.e3b4203e.js",
+    "static/media/fourth project.png": "/Project-Portfolio/static/media/fourth project.3847a2709a441a73408c.png",
     "static/media/first project.png": "/Project-Portfolio/static/media/first project.e9147e8d57c9ca84449a.png",
     "static/media/background.jpg": "/Project-Portfolio/static/media/background.cd1af80d9bb0ba1718d0.jpg",
+    "static/media/third project.png": "/Project-Portfolio/static/media/third project.84f69df37328f3ca92e7.png",
+    "static/media/second project.png": "/Project-Portfolio/static/media/second project.25867ac55fd0305d9228.png",
     "static/media/atom.png": "/Project-Portfolio/static/media/atom.17e5cb984343d1346ebd.png",
     "static/media/css.png": "/Project-Portfolio/static/media/css.02d225c7df0b28341d8d.png",
     "static/media/Logo.png": "/Project-Portfolio/static/media/Logo.902baa572e5bc0cc1bb4.png",
@@ -12,10 +15,10 @@
     "static/media/js.png": "/Project-Portfolio/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/Project-Portfolio/index.html",
     "main.db1bfa75.css.map": "/Project-Portfolio/static/css/main.db1bfa75.css.map",
-    "main.96494284.js.map": "/Project-Portfolio/static/js/main.96494284.js.map"
+    "main.e3b4203e.js.map": "/Project-Portfolio/static/js/main.e3b4203e.js.map"
   },
   "entrypoints": [
     "static/css/main.db1bfa75.css",
-    "static/js/main.96494284.js"
+    "static/js/main.e3b4203e.js"
   ]
 }
